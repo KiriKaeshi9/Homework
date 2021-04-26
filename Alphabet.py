@@ -16,6 +16,3 @@ class Alphabet:
 al = Alphabet()
 al.list_of_letters()
 al.number_of_letters()
-
-
-
