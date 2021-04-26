@@ -22,10 +22,3 @@ class Car:
 car = Car()
 car.refuel(10)
 car.ride(78)
-
-
-
-
-
-
-
