@@ -16,6 +16,3 @@ def numbers(*nums, num_1=0, num_2=0, range1=0, range2=0):
 
 
 numbers(2, 3, 7, 12, num_1=9, num_2=13, range1=3, range2=8)
-
-
-
