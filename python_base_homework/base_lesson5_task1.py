@@ -4,7 +4,7 @@
 
 
 def numbers(*nums):
-    return sum(nums)/2
+    return sum(nums)/len(nums)
 
 
 print(numbers(3, 6))
