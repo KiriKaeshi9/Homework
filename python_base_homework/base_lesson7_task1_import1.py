@@ -20,4 +20,5 @@ def user_actions():
             print('Wrong action. Try again.\n')
 
 
-user_actions()
+if __name__ == '__main__':
+    user_actions()
